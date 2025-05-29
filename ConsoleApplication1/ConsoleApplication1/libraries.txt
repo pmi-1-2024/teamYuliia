@@ -1,0 +1,2 @@
+1;Central Library;10, Shevchenka St.;30
+2;Children's Library;5, Lesi Ukrainky St.;20

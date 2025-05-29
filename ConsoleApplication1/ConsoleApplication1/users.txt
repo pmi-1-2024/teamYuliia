@@ -1,0 +1,5 @@
+1;admin;admin@gmail.com;admin123;1
+2;librarian;librarian@gmail.com;lib123;2
+3;user;user@gmail.com;user123;3
+4;Ju;naz@gmail.com;123;3
+5;Kira;kira@gmail.com;kira123;3
